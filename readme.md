@@ -66,8 +66,3 @@ The app will open in your browser (default: `http://localhost:8501`).
 
 ---
 
-## 🧑‍💻 Author
-
-Developed by **\iqra**
-
----
